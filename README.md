@@ -18,3 +18,10 @@ pip install customtkinter
 6. Enabled Predefined Queries for quick stats (e.g., table row count).
 7. Added multi-row deletion and a Row Details popup on double-click.
 8. Enhanced UI and functionality with additional tools and logging features.
+
+
+# Old Changelogs
+Changelog [Version 1.0]
+1. Initial release with basic database operations.
+2. Added create, open, backup, and import CSV features.
+3. Implemented table and data management functionalities.
