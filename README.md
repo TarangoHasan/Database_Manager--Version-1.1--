@@ -10,11 +10,11 @@ pip install PyQt5
 pip install customtkinter
 
 # Changelog [Version 1.1]
-Implemented About and Changelog dialogs.
-Added Query History and a Clear Query Editor button in the query window.
-Introduced Export Schema, Run SQL Script, Import JSON, and Generate Sample Data features.
-Added Drop All Tables and Undo Last Operation functionalities.
-Included Database Summary, Toggle Dark Mode, and Reset Filters options.
-Enabled Predefined Queries for quick stats (e.g., table row count).
-Added multi-row deletion and a Row Details popup on double-click.
-Enhanced UI and functionality with additional tools and logging features.
+1. Implemented About and Changelog dialogs.
+2. Added Query History and a Clear Query Editor button in the query window.
+3. Introduced Export Schema, Run SQL Script, Import JSON, and Generate Sample Data features.
+4. Added Drop All Tables and Undo Last Operation functionalities.
+5. Included Database Summary, Toggle Dark Mode, and Reset Filters options.
+6. Enabled Predefined Queries for quick stats (e.g., table row count).
+7. Added multi-row deletion and a Row Details popup on double-click.
+8. Enhanced UI and functionality with additional tools and logging features.
