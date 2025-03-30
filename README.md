@@ -9,6 +9,8 @@ pip installs:
 pip install PyQt5      
 pip install customtkinter
 
+This Version Added in 30/3/2025
+
 # Changelog [Version 1.1]
 1. Implemented About and Changelog dialogs.
 2. Added Query History and a Clear Query Editor button in the query window.
